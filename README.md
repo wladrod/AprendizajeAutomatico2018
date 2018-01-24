@@ -1,4 +1,4 @@
-# Aprendizaje Automático Semestre A, 2018
+# Aprendizaje Automático Semestre A-2018
 
 Este repositorio contiene el material del curso de aprendizaje autómatico para el semestre A-2018.
 
