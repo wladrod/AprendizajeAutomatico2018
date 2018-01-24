@@ -1,1 +1,22 @@
-# AprendizajeAutomatico2018
+# Aprendizaje Automático Semestre A, 2018
+
+Este repositorio contiene el material del curso de aprendizaje autómatico para el semestre A-2018.
+
+## Temario
+
+1. Introducción
+2. Herramientas de Python
+3. Aprendizaje Supervisado
+    1. Clasificación y Regresión
+    2. Vecino más Cercano
+    3. Regresión Lineal
+    4. Arboles de Decisión
+    5. Conjunto de Arboles de Decisión
+    6. Maquinas de Vectores de Soporte
+    7. Redes Neuronales
+    8. Aprendizaje Profundo
+4. Aprendizaje no Supervisado
+    1. Análisis de Componentes Principales
+    2. Agrupamiento
+    3. Agrupamiento Jerárquico
+5. Aprendizaje por Refuerzo
