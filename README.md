@@ -6,6 +6,10 @@ Este repositorio contiene el material del curso de aprendizaje autómatico para 
 
 1. Introducción
 2. Herramientas de Python
+   1. Introducción a Python
+   2. Introduccón a Numpy
+   3. Introducción a Matplotlib
+   4. Introducción a Pandas
 3. Aprendizaje Supervisado
     1. Clasificación y Regresión
     2. Regresión Lineal
