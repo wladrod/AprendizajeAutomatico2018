@@ -16,12 +16,13 @@ Este repositorio contiene el material del curso de aprendizaje autómatico para 
     3. Clasificador Bayesiano Ingenuo (Naive Bayes)
     4. Perceptrón
     5. Regresión Logística
-    3. Vecino más Cercano
-    4. Arboles de Decisión
-    5. Conjunto de Arboles de Decisión
-    6. Maquinas de Vectores de Soporte
-    7. Redes Neuronales
-    8. Aprendizaje Profundo
+    6. Vecino más Cercano
+    7. Arboles de Decisión
+    8. Conjunto de Arboles de Decisión
+    9. Maquinas de Vectores de Soporte
+    10. Ensemble Learning (Aprendizaje con Conjunto de Algoritmos)
+    11. Redes Neuronales
+    12. Aprendizaje Profundo
 4. Aprendizaje no Supervisado
     1. Análisis de Componentes Principales
     2. Agrupamiento
